@@ -8,7 +8,7 @@ Mình đã "chinh chiến" qua nhiều hệ sinh thái công nghệ khác nhau. 
 
 ## 🚀 Tech Stack
 
-Đây là những công cụ mình sử dụng hàng ngày:
+Đây là những công cụ mình sử dụng:
 
 ### Backend
 * **Ngôn ngữ:** Java, PHP, Node.js, Python (một chút)
